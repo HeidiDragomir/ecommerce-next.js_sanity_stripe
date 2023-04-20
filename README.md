@@ -1,6 +1,6 @@
 ## My first webshop and my first contact with Sanity and Stripe
 
-This project is done using this tutorial [https://www.youtube.com/watch?v=XxXyfkrP298&t=40572s](https://www.youtube.com/watch?v=XxXyfkrP298&t=40572s) in order to learn Next.js, to test Sanity for backend and Stripe for payments.
+This project was done using a tutorial in order to learn Next.js, to test Sanity for backend and Stripe for payments.
 
 You can check the live version here: [https://ecommerce-next-js-sanity-stripe.vercel.app/](https://ecommerce-next-js-sanity-stripe.vercel.app/)
 
