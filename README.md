@@ -6,4 +6,4 @@ You can check the live version here: [https://ecommerce-next-js-sanity-stripe.ve
 
 The webshop is fully functional and completely responsive.
 
-I want to develop it later, too add more functionality, but I preffer to focus on learning something new.
+I want to develop it later, too add more functionality.
